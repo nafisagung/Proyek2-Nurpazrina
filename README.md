@@ -1,4 +1,6 @@
-**Proyek2**
+**APLIKASI SISTEM PAKAR UNTUK DIAGNOSA PENYAKIT ALERGI MAKANAN PADA MANUSIA BERBASIS WEB MENGGUNAKAN FRAMEWORK CI**
+
+**(Sub Modul Interaksi User)**
 
 <img src="./media/image1.jpeg" width="66" height="71" />
 
